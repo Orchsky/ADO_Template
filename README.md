@@ -14,4 +14,6 @@
   - Linux
   - Programming languages (python / bash)
   - core cloud services (EC2, S3, RDS, IAM)
+  - What is docker, why is it important
+  - What is kubernetes
   
