@@ -1,7 +1,7 @@
 trigger:
-  - #main
+  - #enter your branch triggger here
 
-pool: demo
+pool: #enter your own agent pool here
 
 resources:
   repositories:
